@@ -5,7 +5,7 @@
 	"license": "MIT",
 	"type": "module",
 	"devDependencies": {
-		"svelte": "^3.41.0",
+		"svelte": "^3.49.0",
 		"magic-string": "^0.25.7"
 	}
 }
